@@ -14,3 +14,4 @@ with open("day2.txt") as f:
             valid += 1
 
 print(valid)
+# answer = 460
